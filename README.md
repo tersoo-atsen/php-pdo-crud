@@ -1,2 +1,2 @@
 # PHP PDO CRUD #
-Simple App to Demo CRUD with PHP and PDO
+Simple app to demo CRUD with PHP and PDO
